@@ -7,4 +7,6 @@ incluí as traduções para Inglês e Espanhol, e optei por ultizar este último
 
 Imagem da mensagem inicial do App:
 
+
+
 ![image](https://github.com/Zooooa/PrimeiroAppDIO/assets/85597102/ab38a45f-d3a2-4194-a5da-793ce98537c9)
